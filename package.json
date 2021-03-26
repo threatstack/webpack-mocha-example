@@ -6,7 +6,7 @@
     "test": "webpack -w --progress --colors --config webpack-test.config.js"
   },
   "author": "Vitaliy Zakharov",
-  "license": "BSD",
+  "license": "MIT",
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0",
