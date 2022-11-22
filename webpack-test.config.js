@@ -1,3 +1,8 @@
+/* 
+ * Copyright 2018-2022 F5 Inc.
+ * Licensed under the MIT license, see LICENSE.md for full text.
+ */
+
 var webpack = require('webpack');
 var nodeExternals = require('webpack-node-externals');
 var WebpackShellPlugin = require('webpack-shell-plugin');
